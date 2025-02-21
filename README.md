@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hey There! 👋
+**I'm Mykola** - I'm a trainee frontend engineer. I work on random projects in my free time!
+
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)<br/>
+
 
 <!--
 **mykolazaitsew/mykolazaitsew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
