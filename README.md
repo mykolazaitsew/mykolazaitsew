@@ -1,7 +1,7 @@
 # Hey There! 👋
 **I'm Mykola** - I'm a trainee frontend engineer. I work on random projects in my free time!
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=js,react,ts,html,css)](https://skillicons.dev)<br/>
 
 
 <!--
